@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "javascript": {
+      "async": "Asynchronously"
+    },
+    "ruby": {
+      "blackMagic": "The Black Magic"
+    },
+    "functionalLanguage": "Functional Languages"
+  }
+}

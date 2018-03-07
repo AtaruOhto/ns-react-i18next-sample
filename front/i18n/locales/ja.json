@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "javascript": {
+      "async": "非同期"
+    },
+    "ruby": {
+      "blackMagic": "黒魔術"
+    },
+    "functionalLanguage": "関数型言語"
+  }
+}
